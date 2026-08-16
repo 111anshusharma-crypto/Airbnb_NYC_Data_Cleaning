@@ -2,4 +2,4 @@ venv/
 __pycache__/
 *.pyc
 data/raw/
-data/processed/*.csv
+data/processed/*.csv.DS_Store
